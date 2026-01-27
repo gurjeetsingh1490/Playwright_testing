@@ -1,0 +1,1 @@
+✔ Count and print links (0.4586ms)

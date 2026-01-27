@@ -1,0 +1,2 @@
+✔ Count and print links (0.27ms)
+Total count is =  0
