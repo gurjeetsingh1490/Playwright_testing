@@ -1,11 +1,11 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="11.219399">
-<testsuite name="Demo2UiFill.spec.ts" timestamp="2026-01-28T00:41:02.441Z" hostname="chromium" tests="1" failures="0" skipped="0" time="9.215" errors="0">
-<testcase name="Test script to fill ui fields › Test script UIs" classname="Demo2UiFill.spec.ts" time="9.215">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="14.251705">
+<testsuite name="Demo3Codegen.spec.ts" timestamp="2026-01-28T03:05:43.403Z" hostname="chromium" tests="1" failures="0" skipped="0" time="12.225" errors="0">
+<testcase name="test" classname="Demo3Codegen.spec.ts" time="12.225">
 <system-out>
 <![CDATA[
-[[ATTACHMENT|test-results\Demo2UiFill-Test-script-to-fill-ui-fields-Test-script-UIs-chromium\test-finished-1.png]]
+[[ATTACHMENT|test-results\Demo3Codegen-test-chromium\test-finished-1.png]]
 
-[[ATTACHMENT|test-results\Demo2UiFill-Test-script-to-fill-ui-fields-Test-script-UIs-chromium\video.webm]]
+[[ATTACHMENT|test-results\Demo3Codegen-test-chromium\video.webm]]
 ]]>
 </system-out>
 </testcase>

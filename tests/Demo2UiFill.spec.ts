@@ -31,7 +31,5 @@ await page.getByRole("button",{name:"Click Me"}).click
 await page.getByRole("button",{name:"Right Click Me"}).click({button:'right'})
 })
 
-
-
 })
 })
