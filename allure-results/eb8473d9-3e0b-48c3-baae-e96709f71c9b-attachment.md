@@ -1,0 +1,204 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [active] [ref=f7e1]:
+        - generic [ref=f7e4]:
+          - link [ref=f7e5] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CUYOg4lZ5adOcB5az4t4PudP-iAmZ_MnihAGd1vbHmxWgloDskAIQASDG-9Z5YKXAo4CkAaABo4qAzkLIAQngAgCoAwHIAwqqBPgBT9DFQ4RBDKXqeERRYTA6tIiiLRcs2lB6180Jm_dPH1hq27G0N285phrcAoCut0sI1FVlwk7ah0asyM91OqVsENT2hlIomSGbmk8i_k2_AF7_4Qho5GMSe8-P7E-OkJJe3AqcUXrTcSR3TTunqRxGbKOzZNwasx2BZMXx8JJAtUMDpjbGVfHaElaITQstMeNJDH3_pIaoL-nbkWLnwVXRP4iZS1BnuGzJz0IFaVWskZCnnNL_mxSW7k2Xf5nYn5V933gPb0iDCOyy9FyoIqN2T1tMGFMIhcCp-2Jp-hiaKyIS1qVcoty-4wSOxRaGlnyYM_-B7HTKsVjABLiQnPjLBeAEAYgFrOyNuFegBi6AB6PC0K0dqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnQEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY38Xt7_uskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTKxCWr3bkaFB94agAoDmAsByAsBgAwB2gwQCgoQkJnB4JDGgaIjEgIBA6oNAkFVyA0B4g0TCJLw7e_7rJIDFZaZ2AUduakfkeoNEwihs-7v-6ySAxWWmdgFHbmpH5HwDQKIDv___________wHYEwrQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAACSHGUESCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE&num=1&cid=CAQSswEA56J1ef_ulC0LbkIk-2I6laFhNZdzFX_ntmWizvWcXX-atQcGj3RSnLQFvUgRHJoMlh0wcYkh2P0PxnAX_m2bjIHgd8FkmbNZ_4sdwfY5Zxu-afh4yQVd3uMTGvZqBhNObtI_7a1msuj-emcf8zQXwyBGoFz1ZlHjwMOloaGBvROPk7fkFrQqaszFzO9SHEj6GANLykpcNQychS1CMUwThy2iLkX442xp-_iWUH0FuqTefxgB&sig=AOD64_2QS0fN-LcVbJ5JxRE8O1W7jzwgaw&client=ca-pub-4573231550355221&rf=4&nb=9&adurl=https://www.inlineexcavations.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix-smart-campaign%26utm_campaign%3Dgoogle-ads-campaign-2026-1-16-992d5619%26gad_source%3D5%26gad_campaignid%3D23471552044%26gclid%3DEAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE
+            - img [ref=f7e6]
+          - generic [ref=f7e10]:
+            - link "Expert in Excavations" [ref=f7e13] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CUYOg4lZ5adOcB5az4t4PudP-iAmZ_MnihAGd1vbHmxWgloDskAIQASDG-9Z5YKXAo4CkAaABo4qAzkLIAQngAgCoAwHIAwqqBPgBT9DFQ4RBDKXqeERRYTA6tIiiLRcs2lB6180Jm_dPH1hq27G0N285phrcAoCut0sI1FVlwk7ah0asyM91OqVsENT2hlIomSGbmk8i_k2_AF7_4Qho5GMSe8-P7E-OkJJe3AqcUXrTcSR3TTunqRxGbKOzZNwasx2BZMXx8JJAtUMDpjbGVfHaElaITQstMeNJDH3_pIaoL-nbkWLnwVXRP4iZS1BnuGzJz0IFaVWskZCnnNL_mxSW7k2Xf5nYn5V933gPb0iDCOyy9FyoIqN2T1tMGFMIhcCp-2Jp-hiaKyIS1qVcoty-4wSOxRaGlnyYM_-B7HTKsVjABLiQnPjLBeAEAYgFrOyNuFegBi6AB6PC0K0dqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnQEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY38Xt7_uskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTKxCWr3bkaFB94agAoDmAsByAsBgAwB2gwQCgoQkJnB4JDGgaIjEgIBA6oNAkFVyA0B4g0TCJLw7e_7rJIDFZaZ2AUduakfkeoNEwihs-7v-6ySAxWWmdgFHbmpH5HwDQKIDv___________wHYEwrQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAACSHGUESCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE&num=1&cid=CAQSswEA56J1ef_ulC0LbkIk-2I6laFhNZdzFX_ntmWizvWcXX-atQcGj3RSnLQFvUgRHJoMlh0wcYkh2P0PxnAX_m2bjIHgd8FkmbNZ_4sdwfY5Zxu-afh4yQVd3uMTGvZqBhNObtI_7a1msuj-emcf8zQXwyBGoFz1ZlHjwMOloaGBvROPk7fkFrQqaszFzO9SHEj6GANLykpcNQychS1CMUwThy2iLkX442xp-_iWUH0FuqTefxgB&sig=AOD64_2QS0fN-LcVbJ5JxRE8O1W7jzwgaw&client=ca-pub-4573231550355221&rf=4&nb=0&adurl=https://www.inlineexcavations.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix-smart-campaign%26utm_campaign%3Dgoogle-ads-campaign-2026-1-16-992d5619%26gad_source%3D5%26gad_campaignid%3D23471552044%26gclid%3DEAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE
+            - link "Inline Excavations Melbourne is Expert in all Earthworks providing exceptional service" [ref=f7e17] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CUYOg4lZ5adOcB5az4t4PudP-iAmZ_MnihAGd1vbHmxWgloDskAIQASDG-9Z5YKXAo4CkAaABo4qAzkLIAQngAgCoAwHIAwqqBPgBT9DFQ4RBDKXqeERRYTA6tIiiLRcs2lB6180Jm_dPH1hq27G0N285phrcAoCut0sI1FVlwk7ah0asyM91OqVsENT2hlIomSGbmk8i_k2_AF7_4Qho5GMSe8-P7E-OkJJe3AqcUXrTcSR3TTunqRxGbKOzZNwasx2BZMXx8JJAtUMDpjbGVfHaElaITQstMeNJDH3_pIaoL-nbkWLnwVXRP4iZS1BnuGzJz0IFaVWskZCnnNL_mxSW7k2Xf5nYn5V933gPb0iDCOyy9FyoIqN2T1tMGFMIhcCp-2Jp-hiaKyIS1qVcoty-4wSOxRaGlnyYM_-B7HTKsVjABLiQnPjLBeAEAYgFrOyNuFegBi6AB6PC0K0dqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnQEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY38Xt7_uskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTKxCWr3bkaFB94agAoDmAsByAsBgAwB2gwQCgoQkJnB4JDGgaIjEgIBA6oNAkFVyA0B4g0TCJLw7e_7rJIDFZaZ2AUduakfkeoNEwihs-7v-6ySAxWWmdgFHbmpH5HwDQKIDv___________wHYEwrQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAACSHGUESCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE&num=1&cid=CAQSswEA56J1ef_ulC0LbkIk-2I6laFhNZdzFX_ntmWizvWcXX-atQcGj3RSnLQFvUgRHJoMlh0wcYkh2P0PxnAX_m2bjIHgd8FkmbNZ_4sdwfY5Zxu-afh4yQVd3uMTGvZqBhNObtI_7a1msuj-emcf8zQXwyBGoFz1ZlHjwMOloaGBvROPk7fkFrQqaszFzO9SHEj6GANLykpcNQychS1CMUwThy2iLkX442xp-_iWUH0FuqTefxgB&sig=AOD64_2QS0fN-LcVbJ5JxRE8O1W7jzwgaw&client=ca-pub-4573231550355221&rf=4&nb=7&adurl=https://www.inlineexcavations.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix-smart-campaign%26utm_campaign%3Dgoogle-ads-campaign-2026-1-16-992d5619%26gad_source%3D5%26gad_campaignid%3D23471552044%26gclid%3DEAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE
+            - link "Inline Excavations" [ref=f7e20] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CUYOg4lZ5adOcB5az4t4PudP-iAmZ_MnihAGd1vbHmxWgloDskAIQASDG-9Z5YKXAo4CkAaABo4qAzkLIAQngAgCoAwHIAwqqBPgBT9DFQ4RBDKXqeERRYTA6tIiiLRcs2lB6180Jm_dPH1hq27G0N285phrcAoCut0sI1FVlwk7ah0asyM91OqVsENT2hlIomSGbmk8i_k2_AF7_4Qho5GMSe8-P7E-OkJJe3AqcUXrTcSR3TTunqRxGbKOzZNwasx2BZMXx8JJAtUMDpjbGVfHaElaITQstMeNJDH3_pIaoL-nbkWLnwVXRP4iZS1BnuGzJz0IFaVWskZCnnNL_mxSW7k2Xf5nYn5V933gPb0iDCOyy9FyoIqN2T1tMGFMIhcCp-2Jp-hiaKyIS1qVcoty-4wSOxRaGlnyYM_-B7HTKsVjABLiQnPjLBeAEAYgFrOyNuFegBi6AB6PC0K0dqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnQEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY38Xt7_uskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTKxCWr3bkaFB94agAoDmAsByAsBgAwB2gwQCgoQkJnB4JDGgaIjEgIBA6oNAkFVyA0B4g0TCJLw7e_7rJIDFZaZ2AUduakfkeoNEwihs-7v-6ySAxWWmdgFHbmpH5HwDQKIDv___________wHYEwrQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAACSHGUESCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE&num=1&cid=CAQSswEA56J1ef_ulC0LbkIk-2I6laFhNZdzFX_ntmWizvWcXX-atQcGj3RSnLQFvUgRHJoMlh0wcYkh2P0PxnAX_m2bjIHgd8FkmbNZ_4sdwfY5Zxu-afh4yQVd3uMTGvZqBhNObtI_7a1msuj-emcf8zQXwyBGoFz1ZlHjwMOloaGBvROPk7fkFrQqaszFzO9SHEj6GANLykpcNQychS1CMUwThy2iLkX442xp-_iWUH0FuqTefxgB&sig=AOD64_2QS0fN-LcVbJ5JxRE8O1W7jzwgaw&client=ca-pub-4573231550355221&rf=4&nb=1&adurl=https://www.inlineexcavations.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix-smart-campaign%26utm_campaign%3Dgoogle-ads-campaign-2026-1-16-992d5619%26gad_source%3D5%26gad_campaignid%3D23471552044%26gclid%3DEAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE
+          - link "Open" [ref=f7e23] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CUYOg4lZ5adOcB5az4t4PudP-iAmZ_MnihAGd1vbHmxWgloDskAIQASDG-9Z5YKXAo4CkAaABo4qAzkLIAQngAgCoAwHIAwqqBPgBT9DFQ4RBDKXqeERRYTA6tIiiLRcs2lB6180Jm_dPH1hq27G0N285phrcAoCut0sI1FVlwk7ah0asyM91OqVsENT2hlIomSGbmk8i_k2_AF7_4Qho5GMSe8-P7E-OkJJe3AqcUXrTcSR3TTunqRxGbKOzZNwasx2BZMXx8JJAtUMDpjbGVfHaElaITQstMeNJDH3_pIaoL-nbkWLnwVXRP4iZS1BnuGzJz0IFaVWskZCnnNL_mxSW7k2Xf5nYn5V933gPb0iDCOyy9FyoIqN2T1tMGFMIhcCp-2Jp-hiaKyIS1qVcoty-4wSOxRaGlnyYM_-B7HTKsVjABLiQnPjLBeAEAYgFrOyNuFegBi6AB6PC0K0dqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnQEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY38Xt7_uskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTKxCWr3bkaFB94agAoDmAsByAsBgAwB2gwQCgoQkJnB4JDGgaIjEgIBA6oNAkFVyA0B4g0TCJLw7e_7rJIDFZaZ2AUduakfkeoNEwihs-7v-6ySAxWWmdgFHbmpH5HwDQKIDv___________wHYEwrQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAACSHGUESCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE&num=1&cid=CAQSswEA56J1ef_ulC0LbkIk-2I6laFhNZdzFX_ntmWizvWcXX-atQcGj3RSnLQFvUgRHJoMlh0wcYkh2P0PxnAX_m2bjIHgd8FkmbNZ_4sdwfY5Zxu-afh4yQVd3uMTGvZqBhNObtI_7a1msuj-emcf8zQXwyBGoFz1ZlHjwMOloaGBvROPk7fkFrQqaszFzO9SHEj6GANLykpcNQychS1CMUwThy2iLkX442xp-_iWUH0FuqTefxgB&sig=AOD64_2QS0fN-LcVbJ5JxRE8O1W7jzwgaw&client=ca-pub-4573231550355221&rf=4&nb=8&adurl=https://www.inlineexcavations.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix-smart-campaign%26utm_campaign%3Dgoogle-ads-campaign-2026-1-16-992d5619%26gad_source%3D5%26gad_campaignid%3D23471552044%26gclid%3DEAIaIQobChMI05Xv7_uskgMVlpnYBR25qR-REAEYASAAEgL_NvD_BwE
+            - generic [ref=f7e24]:
+              - generic [ref=f7e26]: Open
+              - generic [ref=f7e27]:
+                - img [ref=f7e28]
+                - img [ref=f7e30]
+        - generic [ref=f7e35]:
+          - link [ref=f7e37] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30MWC_z7_deR1e2ytX2C612BQmzXb8JVQc1sHolcuE-ct9qAiezD4bqDk9NZBN03n79cEeEfBXU1rcP28NnByQqSEHmgSQQlUn_eyw3DrQRiYbMI_ri3qT_rUXerfm2lQNu4g-lobvPpUJ9x8M1kZdQNIJlFnMD6scem6V_PfjGU57WpLerPevCggNTjgHcxbWcGWCqXx6OmaHyWv8NGDK8kOMNPfW1gmeO0SbVagyozzKNSui7OTSZX2NqgsK3vL5bo6M5nsJRHibM0zafJG6jO0DhK0CfOsgTsNpndPHj8UG6i6mbEnTeqH1A7bxvL5A20IR_u68ngmjiLMV0xmTipe-4CAYk5mK64HkjleTvpxaQNR4V_1ZgFED997QgjbXyQRGEJSTNhGHV6N8DPSgut2q5Px_jbD4kcWCP36q_IHiMgm9WpfieKUfxnnC6S_2MrhiJwaNw-Gc0AFVCgwrRcdsH2Wl2KpOB8ZLI86agqZwbk8BTVakMsI5YHiaAOwDf-fiZa7YMyQsDklldXc5ckyMrbAIFTLiTxC6kcUhrsB6DYUCxMPYFMkTVLa9gvG1UuDKdfW11TSqVwtUtG1xHzH8oLFkkuapyHrlG2fGwirMlQS05NiUK-e4wUJSe0gCgABLuPdNtjLVRvd_AEqMeC1LGZBpRDNsCBujdROAjlCwnDweI6qUg1Mo2Gt1ph7hgZV6v9MWzPmX0UKFnMolPVezGi6Pd-fWJQo612VDpOrRzp444G74vQS9OvBj7mUpicvJUWdLe8yBaz-OkxsDAnrGxcbil0SnvXJKXkH2zXRxwdZug7mUuwL095A9cbyB0h4yt8eMcz5SfzSx1x4f09hGbnt0cFRJVKyEEjJdCKjhGGfk90S76KY3m7KDGoWQMzR-DzM7varAmlxPoW2mlPH_pA5KzuSASUqoHW1hVb3dk5nq2t45LgjrN2fmY5u58qVCEG8pKFHe7zMoa3riHslLEhtQ3vqmVS7CNsPIy8gAIEZcTKdzHHDwTt8aIRwirFB_j8Z7LFsCTOvP6T8mZnKdyiQ0ypYnbANkskiwVSyJvfAlcgJZk3dRNwGXlxvAo2JszRAPli1Ws790U-M4xGoZAdxZGGv1CCmvcDcXm0rcYmCEtwEFmzjbjBC47S0tZTPSLw4EkRS0QOyZgSDsHuQ6VHIVED-7mtNrMBtnHign1vJqdSFeg0cyYkJq2keyjZC3pZwn0ZVPpB3xQlv2sYumom9xy49FkhBmMgU33rjCgxvCkDJMWaqgDGjYGPhlQbZNTKtwc1WF37rDzERtv604PnxSDwOpsxXOkCqazrRDDTSTO1Mv1EiZu9GOag7t9MnfcWfBIB0I7lv2GG1YwGq_rTgoseJOWNucSt9rGeAIkg5LW1DN1fxfszWYsJ2tbxEBz_esxmXwjJ1c3hzdA-8FG6a9JWRDRi69QwIMg48jDktS24GS7RhEKP9vSjhORiIq6-FJ1g5jRN756Mj2ZKV3qpUypmu6ZdKADHB2sM-gD2vLb2-ougmyJqvvKZCQtMXfMI4AK9ox3emNyFz3OXKwXk3WmSAZZC70sc0yrfhpIgtWRQx6fsZgRGI5EnmeJUOV7prkOk1iM0sFwNfJ19FCa_ecrmeYXoG32JRgYx_AhWPRjucRk7Y_EjHe-A4BS_BjjOfH0M_p4AT7fGx0VXtZrJ4kS-bzNqCaMQoGcsDsT2L_9EzEi_itHk8FV3VLnSDmMo7ww8hrh5f6dP5tlnjQOFPp2Bj9fkH_pjQaBNkMcbjUgWv_fjp1mc-3cZ-G-47Y_7o3OiCKpeeJfkb8_Fac4Gtx764da9Wj8h-s8wo-6UCaNSPc0esztcBNqZmRSCMnpMio1oq-hCGIwYncrP-h0eQaGXpIeHHLQsv9Xtmy2DZg3_WzW_SeADpVAi3xvybSa0NfNV4wP72Gwf8rhgP8-c27gA0IN5vgeCtFwo9_423mNn4V8gCx2OWEKVee5U9I3WoJ9nEkLp9kgGQF48Dm0M0zkh2yU3R3yUawkrz82eJ9yEysKpw9Ai_9UAUvrOfG7eTn5GpgCMxSUZ1BYTf1gWuZVX0R3qoPzY7TV9A2a8Jw1l75_GkGuIWPOmyNMzQ71uD81ERNeOATp-iC5X9Ssuo4L1o165uX-5LDWKaZv9nJoxZbNpBjaeaqQzov_rqA720Px3hJiAJc61jlwhRPFi2-h-T0hLRxY0P6dT6Ev80hvHV3Ka9uJW7MqO_ZZu0QesDlzonxlansNX-7Fqdb0Y-MqNtFEZA_8JQSsjgNW4i8KnmHdpHeSd6w8mEoVjms2kOT0UfigUEgiK5lPC90_bPL1mngmSvPLmUOpQNXn_-6C6R0Lh0E1ZbH_9uf0g9VS9UzGU07CRVs1m46mA1GmovfbVTfUwnnCnKFXwV1QKxXWQwAa-PBtPpRy7l5mnpXoVmfodchZfBv5v8Pa5YQgyvW5OrjMOVPWkKZxk0oTbhTdccpZmI-xm17Doktr7kXDNdp3yF84HiJb6atcSaxUpQKC3fXWDLF33FM6QyAcwRa45HFeBgyolMsDLOU1OUHQA75HfMJxlAv7e79H7kSINIO52JD7N7PWi78awioJk8cLKFhhyAMvD8f_4ATd3o-B70b8FrxqKiN0r4g4CyLcztRlFKFUaBpndVggKVGOi4aQANSsHr9LYesVh5GS80uZhYafdOnoMx9zwYEa1DfViSI&opi=122715837
+            - img [ref=f7e39]
+          - link [ref=f7e41] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30MWC_z7_deR1e2ytX2C612BQmzXb8JVQc1sHolcuE-ct9qAiezD4bqDk9NZBN03n79cEeEfBXU1rcP28NnByQqSEHmgSQQlUn_eyw3DrQRiYbMI_ri3qT_rUXerfm2lQNu4g-lobvPpUJ9x8M1kZdQNIJlFnMD6scem6V_PfjGU57WpLerPevCggNTjgHcxbWcGWCqXx6OmaHyWv8NGDK8kOMNPfW1gmeO0SbVagyozzKNSui7OTSZX2NqgsK3vL5bo6M5nsJRHibM0zafJG6jO0DhK0CfOsgTsNpndPHj8UG6i6mbEnTeqH1A7bxvL5A20IR_u68ngmjiLMV0xmTipe-4CAYk5mK64HkjleTvpxaQNR4V_1ZgFED997QgjbXyQRGEJSTNhGHV6N8DPSgut2q5Px_jbD4kcWCP36q_IHiMgm9WpfieKUfxnnC6S_2MrhiJwaNw-Gc0AFVCgwrRcdsH2Wl2KpOB8ZLI86agqZwbk8BTVakMsI5YHiaAOwDf-fiZa7YMyQsDklldXc5ckyMrbAIFTLiTxC6kcUhrsB6DYUCxMPYFMkTVLa9gvG1UuDKdfW11TSqVwtUtG1xHzH8oLFkkuapyHrlG2fGwirMlQS05NiUK-e4wUJSe0gCgABLuPdNtjLVRvd_AEqMeC1LGZBpRDNsCBujdROAjlCwnDweI6qUg1Mo2Gt1ph7hgZV6v9MWzPmX0UKFnMolPVezGi6Pd-fWJQo612VDpOrRzp444G74vQS9OvBj7mUpicvJUWdLe8yBaz-OkxsDAnrGxcbil0SnvXJKXkH2zXRxwdZug7mUuwL095A9cbyB0h4yt8eMcz5SfzSx1x4f09hGbnt0cFRJVKyEEjJdCKjhGGfk90S76KY3m7KDGoWQMzR-DzM7varAmlxPoW2mlPH_pA5KzuSASUqoHW1hVb3dk5nq2t45LgjrN2fmY5u58qVCEG8pKFHe7zMoa3riHslLEhtQ3vqmVS7CNsPIy8gAIEZcTKdzHHDwTt8aIRwirFB_j8Z7LFsCTOvP6T8mZnKdyiQ0ypYnbANkskiwVSyJvfAlcgJZk3dRNwGXlxvAo2JszRAPli1Ws790U-M4xGoZAdxZGGv1CCmvcDcXm0rcYmCEtwEFmzjbjBC47S0tZTPSLw4EkRS0QOyZgSDsHuQ6VHIVED-7mtNrMBtnHign1vJqdSFeg0cyYkJq2keyjZC3pZwn0ZVPpB3xQlv2sYumom9xy49FkhBmMgU33rjCgxvCkDJMWaqgDGjYGPhlQbZNTKtwc1WF37rDzERtv604PnxSDwOpsxXOkCqazrRDDTSTO1Mv1EiZu9GOag7t9MnfcWfBIB0I7lv2GG1YwGq_rTgoseJOWNucSt9rGeAIkg5LW1DN1fxfszWYsJ2tbxEBz_esxmXwjJ1c3hzdA-8FG6a9JWRDRi69QwIMg48jDktS24GS7RhEKP9vSjhORiIq6-FJ1g5jRN756Mj2ZKV3qpUypmu6ZdKADHB2sM-gD2vLb2-ougmyJqvvKZCQtMXfMI4AK9ox3emNyFz3OXKwXk3WmSAZZC70sc0yrfhpIgtWRQx6fsZgRGI5EnmeJUOV7prkOk1iM0sFwNfJ19FCa_ecrmeYXoG32JRgYx_AhWPRjucRk7Y_EjHe-A4BS_BjjOfH0M_p4AT7fGx0VXtZrJ4kS-bzNqCaMQoGcsDsT2L_9EzEi_itHk8FV3VLnSDmMo7ww8hrh5f6dP5tlnjQOFPp2Bj9fkH_pjQaBNkMcbjUgWv_fjp1mc-3cZ-G-47Y_7o3OiCKpeeJfkb8_Fac4Gtx764da9Wj8h-s8wo-6UCaNSPc0esztcBNqZmRSCMnpMio1oq-hCGIwYncrP-h0eQaGXpIeHHLQsv9Xtmy2DZg3_WzW_SeADpVAi3xvybSa0NfNV4wP72Gwf8rhgP8-c27gA0IN5vgeCtFwo9_423mNn4V8gCx2OWEKVee5U9I3WoJ9nEkLp9kgGQF48Dm0M0zkh2yU3R3yUawkrz82eJ9yEysKpw9Ai_9UAUvrOfG7eTn5GpgCMxSUZ1BYTf1gWuZVX0R3qoPzY7TV9A2a8Jw1l75_GkGuIWPOmyNMzQ71uD81ERNeOATp-iC5X9Ssuo4L1o165uX-5LDWKaZv9nJoxZbNpBjaeaqQzov_rqA720Px3hJiAJc61jlwhRPFi2-h-T0hLRxY0P6dT6Ev80hvHV3Ka9uJW7MqO_ZZu0QesDlzonxlansNX-7Fqdb0Y-MqNtFEZA_8JQSsjgNW4i8KnmHdpHeSd6w8mEoVjms2kOT0UfigUEgiK5lPC90_bPL1mngmSvPLmUOpQNXn_-6C6R0Lh0E1ZbH_9uf0g9VS9UzGU07CRVs1m46mA1GmovfbVTfUwnnCnKFXwV1QKxXWQwAa-PBtPpRy7l5mnpXoVmfodchZfBv5v8Pa5YQgyvW5OrjMOVPWkKZxk0oTbhTdccpZmI-xm17Doktr7kXDNdp3yF84HiJb6atcSaxUpQKC3fXWDLF33FM6QyAcwRa45HFeBgyolMsDLOU1OUHQA75HfMJxlAv7e79H7kSINIO52JD7N7PWi78awioJk8cLKFhhyAMvD8f_4ATd3o-B70b8FrxqKiN0r4g4CyLcztRlFKFUaBpndVggKVGOi4aQANSsHr9LYesVh5GS80uZhYafdOnoMx9zwYEa1DfViSI&opi=122715837
+            - img [ref=f7e43]
+        - img [ref=f7e46] [cursor=pointer]
+        - generic [ref=f7e57]:
+          - img [ref=f7e60]
+          - generic [ref=f7e63]:
+            - text: Ads by
+            - img [ref=f7e64]
+          - generic [ref=f7e67]:
+            - generic [ref=f7e70] [cursor=pointer]: Ad options
+            - generic [ref=f7e73] [cursor=pointer]: Send feedback
+            - link [ref=f7e75] [cursor=pointer]:
+              - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30MWC_z7_deR1e2ytX2C612BQmzXb8JVQc1sHolcuE-ct9qAiezD4bqDk9NZBN03n79cEeEfBXU1rcP28NnByQqSEHmgSQQlUn_eyw3DrQRiYbMI_ri3qT_rUXerfm2lQNu4g-lobvPpUJ9x8M1kZdQNIJlFnMD6scem6V_PfjGU57WpLerPevCggNTjgHcxbWcGWCqXx6OmaHyWv8NGDK8kOMNPfW1gmeO0SbVagyozzKNSui7OTSZX2NqgsK3vL5bo6M5nsJRHibM0zafJG6jO0DhK0CfOsgTsNpndPHj8UG6i6mbEnTeqH1A7bxvL5A20IR_u68ngmjiLMV0xmTipe-4CAYk5mK64HkjleTvpxaQNR4V_1ZgFED997QgjbXyQRGEJSTNhGHV6N8DPSgut2q5Px_jbD4kcWCP36q_IHiMgm9WpfieKUfxnnC6S_2MrhiJwaNw-Gc0AFVCgwrRcdsH2Wl2KpOB8ZLI86agqZwbk8BTVakMsI5YHiaAOwDf-fiZa7YMyQsDklldXc5ckyMrbAIFTLiTxC6kcUhrsB6DYUCxMPYFMkTVLa9gvG1UuDKdfW11TSqVwtUtG1xHzH8oLFkkuapyHrlG2fGwirMlQS05NiUK-e4wUJSe0gCgABLuPdNtjLVRvd_AEqMeC1LGZBpRDNsCBujdROAjlCwnDweI6qUg1Mo2Gt1ph7hgZV6v9MWzPmX0UKFnMolPVezGi6Pd-fWJQo612VDpOrRzp444G74vQS9OvBj7mUpicvJUWdLe8yBaz-OkxsDAnrGxcbil0SnvXJKXkH2zXRxwdZug7mUuwL095A9cbyB0h4yt8eMcz5SfzSx1x4f09hGbnt0cFRJVKyEEjJdCKjhGGfk90S76KY3m7KDGoWQMzR-DzM7varAmlxPoW2mlPH_pA5KzuSASUqoHW1hVb3dk5nq2t45LgjrN2fmY5u58qVCEG8pKFHe7zMoa3riHslLEhtQ3vqmVS7CNsPIy8gAIEZcTKdzHHDwTt8aIRwirFB_j8Z7LFsCTOvP6T8mZnKdyiQ0ypYnbANkskiwVSyJvfAlcgJZk3dRNwGXlxvAo2JszRAPli1Ws790U-M4xGoZAdxZGGv1CCmvcDcXm0rcYmCEtwEFmzjbjBC47S0tZTPSLw4EkRS0QOyZgSDsHuQ6VHIVED-7mtNrMBtnHign1vJqdSFeg0cyYkJq2keyjZC3pZwn0ZVPpB3xQlv2sYumom9xy49FkhBmMgU33rjCgxvCkDJMWaqgDGjYGPhlQbZNTKtwc1WF37rDzERtv604PnxSDwOpsxXOkCqazrRDDTSTO1Mv1EiZu9GOag7t9MnfcWfBIB0I7lv2GG1YwGq_rTgoseJOWNucSt9rGeAIkg5LW1DN1fxfszWYsJ2tbxEBz_esxmXwjJ1c3hzdA-8FG6a9JWRDRi69QwIMg48jDktS24GS7RhEKP9vSjhORiIq6-FJ1g5jRN756Mj2ZKV3qpUypmu6ZdKADHB2sM-gD2vLb2-ougmyJqvvKZCQtMXfMI4AK9ox3emNyFz3OXKwXk3WmSAZZC70sc0yrfhpIgtWRQx6fsZgRGI5EnmeJUOV7prkOk1iM0sFwNfJ19FCa_ecrmeYXoG32JRgYx_AhWPRjucRk7Y_EjHe-A4BS_BjjOfH0M_p4AT7fGx0VXtZrJ4kS-bzNqCaMQoGcsDsT2L_9EzEi_itHk8FV3VLnSDmMo7ww8hrh5f6dP5tlnjQOFPp2Bj9fkH_pjQaBNkMcbjUgWv_fjp1mc-3cZ-G-47Y_7o3OiCKpeeJfkb8_Fac4Gtx764da9Wj8h-s8wo-6UCaNSPc0esztcBNqZmRSCMnpMio1oq-hCGIwYncrP-h0eQaGXpIeHHLQsv9Xtmy2DZg3_WzW_SeADpVAi3xvybSa0NfNV4wP72Gwf8rhgP8-c27gA0IN5vgeCtFwo9_423mNn4V8gCx2OWEKVee5U9I3WoJ9nEkLp9kgGQF48Dm0M0zkh2yU3R3yUawkrz82eJ9yEysKpw9Ai_9UAUvrOfG7eTn5GpgCMxSUZ1BYTf1gWuZVX0R3qoPzY7TV9A2a8Jw1l75_GkGuIWPOmyNMzQ71uD81ERNeOATp-iC5X9Ssuo4L1o165uX-5LDWKaZv9nJoxZbNpBjaeaqQzov_rqA720Px3hJiAJc61jlwhRPFi2-h-T0hLRxY0P6dT6Ev80hvHV3Ka9uJW7MqO_ZZu0QesDlzonxlansNX-7Fqdb0Y-MqNtFEZA_8JQSsjgNW4i8KnmHdpHeSd6w8mEoVjms2kOT0UfigUEgiK5lPC90_bPL1mngmSvPLmUOpQNXn_-6C6R0Lh0E1ZbH_9uf0g9VS9UzGU07CRVs1m46mA1GmovfbVTfUwnnCnKFXwV1QKxXWQwAa-PBtPpRy7l5mnpXoVmfodchZfBv5v8Pa5YQgyvW5OrjMOVPWkKZxk0oTbhTdccpZmI-xm17Doktr7kXDNdp3yF84HiJb6atcSaxUpQKC3fXWDLF33FM6QyAcwRa45HFeBgyolMsDLOU1OUHQA75HfMJxlAv7e79H7kSINIO52JD7N7PWi78awioJk8cLKFhhyAMvD8f_4ATd3o-B70b8FrxqKiN0r4g4CyLcztRlFKFUaBpndVggKVGOi4aQANSsHr9LYesVh5GS80uZhYafdOnoMx9zwYEa1DfViSI&opi=122715837
+              - generic [ref=f7e76]:
+                - text: Why this ad?
+                - img [ref=f7e77]
+        - generic [ref=f7e79]:
+          - generic [ref=f7e82] [cursor=pointer]: Not interested in this ad
+          - generic [ref=f7e85] [cursor=pointer]: Seen this ad multiple times
+          - generic [ref=f7e88] [cursor=pointer]: Ad covered content
+          - generic [ref=f7e91] [cursor=pointer]: Ad was inappropriate
+        - generic [ref=f7e97]: Thanks. Feedback improves Google ads
+        - generic [ref=f7e103]:
+          - text: Ad closed by
+          - img [ref=f7e104]
+        - generic [ref=f7e111]:
+          - img [ref=f7e114]
+          - generic [ref=f7e116]:
+            - generic [ref=f7e118]: Personalize ads on this site
+            - link [ref=f7e122] [cursor=pointer]:
+              - /url: https://support.google.com/ads/answer/10923348
+              - generic [ref=f7e123]:
+                - text: Learn more
+                - img [ref=f7e124]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - text: Elements
+            - img [ref=e30]
+          - list [ref=e35]:
+            - listitem [ref=e36] [cursor=pointer]:
+              - img [ref=e37]
+              - generic [ref=e39]: Text Box
+            - listitem [ref=e40] [cursor=pointer]:
+              - img [ref=e41]
+              - generic [ref=e43]: Check Box
+            - listitem [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e47]: Radio Button
+            - listitem [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+              - generic [ref=e51]: Web Tables
+            - listitem [ref=e52] [cursor=pointer]:
+              - img [ref=e53]
+              - generic [ref=e55]: Buttons
+            - listitem [ref=e56] [cursor=pointer]:
+              - img [ref=e57]
+              - generic [ref=e59]: Links
+            - listitem [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+              - generic [ref=e63]: Broken Links - Images
+            - listitem [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]: Upload and Download
+            - listitem [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+              - generic [ref=e71]: Dynamic Properties
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - text: Forms
+          - img [ref=e83]
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - text: Alerts, Frame & Windows
+          - img [ref=e97]
+        - generic [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]:
+            - img [ref=e106]
+            - text: Widgets
+          - img [ref=e111]
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - text: Interactions
+          - img [ref=e125]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - text: Book Store Application
+          - img [ref=e139]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          - generic [ref=f27e2]:
+            - iframe [ref=f27e5]:
+              - img [ref=f30e19] [cursor=pointer]
+            - generic [ref=f27e6]:
+              - generic:
+                - img [ref=f27e10] [cursor=pointer]
+                - button [ref=f27e12] [cursor=pointer]:
+                  - img [ref=f27e13]
+        - heading "Radio Button" [level=1] [ref=e147]
+        - generic [ref=e148]:
+          - generic [ref=e149]: Do you like the site?
+          - generic [ref=e150]:
+            - radio "Yes" [ref=e151]
+            - generic [ref=e152]: "Yes"
+          - generic [ref=e153]:
+            - radio "Impressive" [checked] [active] [ref=e154]
+            - generic [ref=e155]: Impressive
+          - generic [ref=e156]:
+            - radio "No" [disabled] [ref=e157]
+            - generic [ref=e158]: "No"
+          - paragraph [ref=e159]: You have selected Impressive
+        - iframe [ref=e163]:
+          - generic [ref=f33e2]:
+            - iframe [ref=f33e5]:
+              - generic [ref=f38e2] [cursor=pointer]:
+                - generic [ref=f38e5]:
+                  - generic [ref=f38e7]:
+                    - generic [ref=f38e8]: QUARTERFINALS
+                    - generic [ref=f38e9]: RYBAKINA
+                    - img [ref=f38e11]
+                    - generic [ref=f38e13]: SWIATEK
+                  - generic [ref=f38e14]:
+                    - generic [ref=f38e15]:
+                      - img [ref=f38e16]
+                      - img [ref=f38e18]
+                      - img [ref=f38e20]
+                      - img [ref=f38e22]
+                    - generic [ref=f38e25]: TICKETS SELLING FAST
+                  - generic [ref=f38e26]: "*Limited Availability. Prices may fluctuate. Lowest single seat price."
+                  - generic [ref=f38e28]: Wednesday Day | Rod Laver Arena
+                  - img [ref=f38e30]
+                - generic [ref=f38e33]:
+                  - img [ref=f38e35]
+                  - img "Hits Different" [ref=f38e39]
+                - img [ref=f38e41]
+                - generic [ref=f38e42]:
+                  - img [ref=f38e43]
+                  - img [ref=f38e44]
+                - img [ref=f38e46]
+            - generic [ref=f33e6]:
+              - generic:
+                - img [ref=f33e10] [cursor=pointer]
+                - button [ref=f33e12] [cursor=pointer]:
+                  - img [ref=f33e13]
+      - generic [ref=e168]:
+        - img "Build PlayWright tests with AI" [ref=e170] [cursor=pointer]
+        - iframe [ref=e173]:
+          
+        - iframe [ref=e176]:
+          - generic [ref=f40e3]:
+            - link [ref=f40e4] [cursor=pointer]:
+              - /url: //cdn.mediago.io/js/officialWebsite/policy.html
+              - img [ref=f40e5]
+            - 'link "The Most Realistic PC Game of 2026 The Most Realistic PC Game of 2026 Raid: Shadow Legends" [ref=f40e7] [cursor=pointer]':
+              - /url: https://trace.popin.cc/ju/ic?tn=41b6e88a2b85b0e731ef8e73e5558712&trackingid=388830bcfa833fd474acdceb25ed21f2&acid=19663&data=WOeqJKxI0LL3uO6ANt9Aoov2lsXjb5ekXIq11moju1np7ux7335XyF6NclP6r1Ib1plwauHzE8HU-gbiGqfR0WZ_3CQ_TKmcDIGHNcDebvfmB-LFEuj7jgb9PRmOmtKe6m-dFzD5TzFuPUqfAubsVpXFgVDDvuAU008i25AQy5MqujFUxT4yxZzpDtSbpCgIY1G_mADq7W8XA2vgWZ5J3NAr1HWH4X9-8FrEG8WsLwOoxm8Lv6x9ijCU-GIlXQtGaZKiAqPjWsHzC-0KQMRq2ms30W6mdaTGJCZdSouRocxh912MQQWevF14h7ocYzftFu_odGwmbwC45Da3HjmhGegHoQkF4LykafwGZV5iB3Pi49Z4_r0nXLPNTKLBFV1xIqQK04ArARaTv0bKlq0fT5re5M8mJ_jciD0Cmf4aWgEKXnWue8qyFZdA2Y3QrDFfXt3loGvNLtx_4ppHNHDqMT2pNU3RJpvnmJCh8o7KDS9fItgmhhcjQGSJP3RF0zrhIMOykGkaXpvLaKWUyd8jX9x2kZeHJypBmfE8m_8472MAeLc2wuvpK9VOZX-6fYvQT8AhWip5mev7wnilR-ujr-1mX3bSJnI8n_e-7g2lSAUnywjXuYYg-Aqxd-UKSR33DBXtLbRkWQMk6onNXDcIrUiATGBkeP0FTJZCf-qkDu5LkXPIu3j5DhFK8SFj5W1UUNEW0aekmQBFoHpnuDzlL-C2ecfx-kdMW6fXnaO-OaIEUGFvo1UAcokAIMwuH0BrAI-padUqnsr9Uq1MH3ShV_hCCGVnl99_kqkdqpnsO4agpe4rbHet8CVkGah6NA-tXHxB3n0EFQRouUIIc6WM855-KvQtjOLRF_7X1LntfOZU2uPulwro98bRGXQ-FBljqqtaneqbj8hbl6y4hcAOzBaKWtB5X60XI8VFuC40nh4Z9BncxaB9KxUDvEyGLGN63aN4yBgxnbi8b6NYBHSp3hrT8euh3JXDe2hoE-Qy17FX9cNEgzUe4cs6KzBU6raOSMv4UC8NA5UU9_2wWktEUXN6NprVaJYeuFEnjd8f_CVovg1M-pcZGU6yCxFP21gQm7waCMQbA6UTlBnbXbxTn932ueZZ_GI2pdtjq6C7EEdZJSY9pqBfAB-WjB8aBnGgctUMIAiOQkv6cNwwIcdICj0F2OCiUlZ76Pk64ffpVqmuDzQSkPLWVXVz6Ndgckbk0RcsN3oTDZzeWaNLqSkR2L0fpHZNycclzNnfjsVHUSxAXSTexIK2oTFwqedM6P7IQ36jDJT3qSg0cqCGduZxrb_HKbWmlWY86f2fP-DWNK0OFgU_9vm1EIWVH2TXfF_tgwnmUBjYuGGsKgV1k5Uq-rhaJFhONI4KOI3owDVJF1EmwSCGRTAEWVIWv7GRtb1iw2tEpYtBiqlVmSc2dW2nn7LhsanYktz3tFIWhBu2P5qzkP8U4dG5qRi1XgjNwdodCb4jjg6fp4_V5wRCxlJx5ucyuVj8JQf9DDGZlN1IyL6_jQk5GRjCYP4aCt_TH9d623Z_UlP8rNkcxqzfn4wAEAAXp6XszzcXry8DtXh0dMMyGaSy9fQ_I5w6BoU86vlAcWd8ZDFuhV0vpgsbygwO5v82WgRVN3898MSBSSGFxoHTpeujyq6G6nhir0cGJT1UVr5HUoN20BP0XYntdix6i7Pa-1tWkuGz4kFwQJzvjIT9Whf4nTvyZYrJpTNSeWH_gMnJUsdptCP4lMoJcLOoZimuJP27LtWFCjvDnuoG2BMEY4qr5fhtkOuymM2up0-CQrjwvaNI4fcFSuTBWIsKrIE32CW2R6f8ie19ykwMCGxbkfvMOIzVAVk79Yibf-qb7A8OsrNswu__TRT02YBULnJHnQ5JI4lci06rCQTPN9Ow1dM8JMRt4RsAttUgKyvvuIpFDEY4HnhuxlcSA1dEdgXVZ0S5vUOsg_F_lpQHdgyNPswCx1yqdaaqo-AQ7ZxObwAUMqGrPgd8RgHl8TyzmQ&uid=CAESEH9W63mTCHoUkpK9XtyUPck&mguid=&ap=0.030001&tid=72&gprice=JdWVVOTycjfhG5HCqeWPGvmCoovM8dGXt_0sPzI-Jnk&campaignid=3363259&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCIzcP5lZ5acP0IbW94t4P44OK-AWE2s79f-S-mIi1EcCNtwEQASDG-9Z5YKXAo4CkAcgBCeACAKgDAcgDAqoE8QFP0OQMnNf22eaWd7KFBUWM4dr2MbQX4vyRxj3yIXSjMg1iXDjyTPx2skdaFbnPVY5cZvjcYQu-iyUc9H2JNy5tiCbm6f1P9LrUJaujR09AB29Xpy9_g4jKmYPU9WvP29o9IYKtTNb4TKun6dstvFKaaBaYHjkjxgBVPEem4h3mnOY0gbvQdh5aHp-La4B0z-cANphFz00e6bAVLznJwKJsH57kPmDvzRrm8DnAzy4akVUywGzpUwcDsJYwsSwWKK_DtUwLtbdEHs6CQAlxzZNAxaF2SyjGHN5qZywK1Huweb9n_Fppab4PYd0YIu-EHHUu4AQBgAbXyoXG6ZWmvxCgBiGoB5PYsQKoB5TYsQKoB6a-G6gHltgbqAeqm7ECqAf_nrECqAffn7ECqAetvrECqAe_07EC2AcA0ggsCIBhEAEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY-I-_8fuskgPyCBthZHgtc3Vic3luLTM1MjA2MTczNDE2NjU1OTL6CwIIAYAMAaoNAkFV4g0TCIa_v_H7rJIDFbWe2AUd44ECX-oNEwjKk8Dx-6ySAxW1ntgFHeOBAl-IDv___________wHQFQGAFwGyFxAYDCoKNjE2ODU3NjUwNVABqhgXCSlcj8IFcNdAEgo2MTY4NTc2NTA1GAE%26num%3D1%26sig%3DAOD64_2SrJOU07OHNN2IuKV7KOP63JGxeA%26client%3Dca-pub-4573231550355221%26adurl%3D
+              - img "The Most Realistic PC Game of 2026" [ref=f40e8]
+              - heading "The Most Realistic PC Game of 2026" [level=3] [ref=f40e9]
+              - generic [ref=f40e10]: "Raid: Shadow Legends"
+    - contentinfo [ref=e177]:
+      - generic [ref=e178]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

@@ -1,27 +1,11 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="15.219537">
-<testsuite name="ContPrnt.spec.ts" timestamp="2026-01-26T07:56:04.384Z" hostname="chromium" tests="1" failures="0" skipped="0" time="14.008" errors="0">
-<testcase name="Test case to count and print the links" classname="ContPrnt.spec.ts" time="14.008">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="11.219399">
+<testsuite name="Demo2UiFill.spec.ts" timestamp="2026-01-28T00:41:02.441Z" hostname="chromium" tests="1" failures="0" skipped="0" time="9.215" errors="0">
+<testcase name="Test script to fill ui fields › Test script UIs" classname="Demo2UiFill.spec.ts" time="9.215">
 <system-out>
-<![CDATA[[32m✔ Count and print links [90m(0.2812ms)[39m[39m
-Total count is =  [33m14[39m
-ImageTitleAuthorPublisher
-Git Pocket Guide Richard E. SilvermanO'Reilly Media
-Learning JavaScript Design Patterns Addy OsmaniO'Reilly Media
-Designing Evolvable Web APIs with ASP.NET Glenn Block et al.O'Reilly Media
-Speaking JavaScript Axel RauschmayerO'Reilly Media
-You Don't Know JS Kyle SimpsonO'Reilly Media
-Programming JavaScript Applications Eric ElliottO'Reilly Media
-Eloquent JavaScript, Second Edition Marijn HaverbekeNo Starch Press
-Understanding ECMAScript 6 Nicholas C. ZakasNo Starch Press
-    
-    
-Previous
-Page  of 15 rows10 rows20 rows25 rows50 rows100 rows
-Next
+<![CDATA[
+[[ATTACHMENT|test-results\Demo2UiFill-Test-script-to-fill-ui-fields-Test-script-UIs-chromium\test-finished-1.png]]
 
-[[ATTACHMENT|test-results\ContPrnt-Test-case-to-count-and-print-the-links-chromium\test-finished-1.png]]
-
-[[ATTACHMENT|test-results\ContPrnt-Test-case-to-count-and-print-the-links-chromium\video.webm]]
+[[ATTACHMENT|test-results\Demo2UiFill-Test-script-to-fill-ui-fields-Test-script-UIs-chromium\video.webm]]
 ]]>
 </system-out>
 </testcase>

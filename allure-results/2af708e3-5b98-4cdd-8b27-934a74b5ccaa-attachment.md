@@ -1,0 +1,302 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [active] [ref=f6e1]:
+        - generic [ref=f6e4]:
+          - generic [ref=f6e5]:
+            - generic "SkyCAD Systems" [ref=f6e6]:
+              - link "Electrical CAD software - Control panel design software" [ref=f6e8] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH-RHglR5ab-IF57M9fwPlr218QPU28vef9CL3oHVEMCNtwEQASDG-9Z5YKXAo4CkAaABpeWs1wLIAQGpAo867iZEtKg-4AIAqAMByAMKqgSOAk_QZSRD_ZMEJFKjBFoeCe9NEBP-QgR4P-8sqoj_modEGAVbUfXAMB_HCh2Z09oNIiD1M4z-UbPiGRCa2x0OIcz-SMPdw4LMkeS3iLxaq3ubwIJ45UZOHpPHWXwHKFmMUY3SV1iK5MXl9LvUZRlrVSNHYvlQNSo9baeSOv2E8yAOtikGYqMzGjQUACIZNAM8MyF1Ed-W3AlODfel7uQKVfTB9bieOzB9zB4xjSaCbR2Z7dcpTF66vrmfwm_erJ-eTXOgBrVzMJ9vJMdb-6p2NslkqnfqxJMILPuEkVi7cUP822PFYvV6FfPR_jwRbSABF8yFtpzfxuEhYqtgC_12Pcd0OYwDeEWCzgDmpJWooMAEg8vvwKME4AQBiAXatrWLR6AGZoAHw5rTqAGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlim84fO-aySA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJ3G7Wq14rg52ACgOYCwHICwHaDBEKCxDwj-fqvODqpvYBEgIBA6oNAkFVyA0B4g0TCOaaiM75rJIDFR5mnQkdll4tPuoNEwi62YjO-aySAxUeZp0JHZZeLT7wDQKIDv___________wHYEwKIFALQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAITIFUESCjYxNjg1NzY1MDUYAbIYCRICvlAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE&num=1&cid=CAQSswEA56J1eWeO-Pw62vGoe56adkzLCnTwfEI-oncp_XtU9Riy6CAIYixtV-SWdO5MNJRKZi5ueQG_-yMH4S30RN4njt9d_oksfTtgLVpqRzPK3jbOAM2Yp4NUnylIxCaDNAJAmuJgG9TkKHF0022_M3ngPgY9db1MtzvbwF5tPjZkNfls7p7_Ki5fKj5uRjmzwVmrhKdEm46vjEXtizvGtwj0R9PomPoeGosrfeL63kzRQp9n2BgB&sig=AOD64_3PE_57QgX9AFz2hEshg3vJ00k0BA&client=ca-pub-4573231550355221&rf=4&nb=0&adurl=https://skycad.ca%3Fgad_source%3D5%26gad_campaignid%3D19082861402%26gclid%3DEAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE
+                - text: Electrical CAD software - Control panel design
+                - text: software
+            - link "SkyCAD Electrical is a high-end Electrical drawing software SkyCAD Systems" [ref=f6e10] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH-RHglR5ab-IF57M9fwPlr218QPU28vef9CL3oHVEMCNtwEQASDG-9Z5YKXAo4CkAaABpeWs1wLIAQGpAo867iZEtKg-4AIAqAMByAMKqgSOAk_QZSRD_ZMEJFKjBFoeCe9NEBP-QgR4P-8sqoj_modEGAVbUfXAMB_HCh2Z09oNIiD1M4z-UbPiGRCa2x0OIcz-SMPdw4LMkeS3iLxaq3ubwIJ45UZOHpPHWXwHKFmMUY3SV1iK5MXl9LvUZRlrVSNHYvlQNSo9baeSOv2E8yAOtikGYqMzGjQUACIZNAM8MyF1Ed-W3AlODfel7uQKVfTB9bieOzB9zB4xjSaCbR2Z7dcpTF66vrmfwm_erJ-eTXOgBrVzMJ9vJMdb-6p2NslkqnfqxJMILPuEkVi7cUP822PFYvV6FfPR_jwRbSABF8yFtpzfxuEhYqtgC_12Pcd0OYwDeEWCzgDmpJWooMAEg8vvwKME4AQBiAXatrWLR6AGZoAHw5rTqAGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlim84fO-aySA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJ3G7Wq14rg52ACgOYCwHICwHaDBEKCxDwj-fqvODqpvYBEgIBA6oNAkFVyA0B4g0TCOaaiM75rJIDFR5mnQkdll4tPuoNEwi62YjO-aySAxUeZp0JHZZeLT7wDQKIDv___________wHYEwKIFALQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAITIFUESCjYxNjg1NzY1MDUYAbIYCRICvlAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE&num=1&cid=CAQSswEA56J1eWeO-Pw62vGoe56adkzLCnTwfEI-oncp_XtU9Riy6CAIYixtV-SWdO5MNJRKZi5ueQG_-yMH4S30RN4njt9d_oksfTtgLVpqRzPK3jbOAM2Yp4NUnylIxCaDNAJAmuJgG9TkKHF0022_M3ngPgY9db1MtzvbwF5tPjZkNfls7p7_Ki5fKj5uRjmzwVmrhKdEm46vjEXtizvGtwj0R9PomPoeGosrfeL63kzRQp9n2BgB&sig=AOD64_3PE_57QgX9AFz2hEshg3vJ00k0BA&client=ca-pub-4573231550355221&rf=4&nb=7&adurl=https://skycad.ca%3Fgad_source%3D5%26gad_campaignid%3D19082861402%26gclid%3DEAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE
+          - link "OPEN" [ref=f6e13] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH-RHglR5ab-IF57M9fwPlr218QPU28vef9CL3oHVEMCNtwEQASDG-9Z5YKXAo4CkAaABpeWs1wLIAQGpAo867iZEtKg-4AIAqAMByAMKqgSOAk_QZSRD_ZMEJFKjBFoeCe9NEBP-QgR4P-8sqoj_modEGAVbUfXAMB_HCh2Z09oNIiD1M4z-UbPiGRCa2x0OIcz-SMPdw4LMkeS3iLxaq3ubwIJ45UZOHpPHWXwHKFmMUY3SV1iK5MXl9LvUZRlrVSNHYvlQNSo9baeSOv2E8yAOtikGYqMzGjQUACIZNAM8MyF1Ed-W3AlODfel7uQKVfTB9bieOzB9zB4xjSaCbR2Z7dcpTF66vrmfwm_erJ-eTXOgBrVzMJ9vJMdb-6p2NslkqnfqxJMILPuEkVi7cUP822PFYvV6FfPR_jwRbSABF8yFtpzfxuEhYqtgC_12Pcd0OYwDeEWCzgDmpJWooMAEg8vvwKME4AQBiAXatrWLR6AGZoAHw5rTqAGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlim84fO-aySA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJ3G7Wq14rg52ACgOYCwHICwHaDBEKCxDwj-fqvODqpvYBEgIBA6oNAkFVyA0B4g0TCOaaiM75rJIDFR5mnQkdll4tPuoNEwi62YjO-aySAxUeZp0JHZZeLT7wDQKIDv___________wHYEwKIFALQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAITIFUESCjYxNjg1NzY1MDUYAbIYCRICvlAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE&num=1&cid=CAQSswEA56J1eWeO-Pw62vGoe56adkzLCnTwfEI-oncp_XtU9Riy6CAIYixtV-SWdO5MNJRKZi5ueQG_-yMH4S30RN4njt9d_oksfTtgLVpqRzPK3jbOAM2Yp4NUnylIxCaDNAJAmuJgG9TkKHF0022_M3ngPgY9db1MtzvbwF5tPjZkNfls7p7_Ki5fKj5uRjmzwVmrhKdEm46vjEXtizvGtwj0R9PomPoeGosrfeL63kzRQp9n2BgB&sig=AOD64_3PE_57QgX9AFz2hEshg3vJ00k0BA&client=ca-pub-4573231550355221&rf=4&nb=8&adurl=https://skycad.ca%3Fgad_source%3D5%26gad_campaignid%3D19082861402%26gclid%3DEAIaIQobChMIv9GJzvmskgMVHmadCR2WXi0-EAEYASAAEgLTE_D_BwE
+            - generic [ref=f6e14]: OPEN
+            - img [ref=f6e15]
+        - generic [ref=f6e17]:
+          - link [ref=f6e19] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30GfyP3OvJdLjAU9qfBMJ2xuRi7_ATFlfDSQMPIAaACrQblGmj8_DklQUD-5BnNXXL0-0lD6qIG9EJq0YjBtemCNC4IWs_waAlkzCdTHR4sOzBWH0GfHluH9jYxyqwQqeoVzM14VGzIMRj6nmFDQNZtiRkJXva7pUriZdpOKJI-Kw-WcA7S89yWYpFbCgn_x_wbIsjKREzOhVqnQw_0UenebPBOVEZhzGVwdOvenYoigOwBLkM8vLM4uMCN4DEbeSeSlkPi9fNwBqYJOnYttIJKNOcffDcFjWcQCdbYXWtOngije3WCaxHYbI15m03cUSF9_W0ER7tvBnpHEC0wj8nbZecwFR4cEn0K5wXZtuHFu39qOLSToWBQB_CFM8hEtQtMxTyx72RPQ6ckqGyhokdEG_bcd5-Q2bWvh8vh2Ucd0xS4M_f-JNGfssVfsAp9ZM_37LpKN6vpl1QF90ddqoJPeVeoFUOLb9c53M-S24Wc-Whs6nqCECH2hsrrbDqHfzATy4V4PzALwwWVbfLhgCjP_nr_zYtr0SmQN6-YUcFIYjQOrm1H_9ONDdPYtsXOYezS09R626P7MiHkGUdc-bWMx-8M6G5k5J_hcGKdtQVsMX3IsKL9e6ZtNim0TQZYVxFANDZG0Dk30JhDac9Yz746ZYdQb-FEaIS8cec4i8SaFqsLSP_GkRN4ExBR6-4uaMqBiSdFUCWhcRqetfF0OTW9PJUwf5hM6O7jc7xyV451YktSuUR5Gv3dXwfvnN4ImGMuMkOlUfii3O02NIqN9sGK4069hwWYeAQfgr0IHOijCRHcySjUTE-YAGpRK7PcyJKq7oLVsPzQkLSJk-ZRLVg1syxH9K0gvVkQhVfgPJVquOeFaIHDrWID-NY5TVLgOSx9Wr6rcPJf-CwCBJYPp_G7_WhBg85Nk6AjLiEx_01v_b7B_neZ6Vf37nMlXOYdIgpMSjvuG7HK5Y_g2pcmkcGr8Qz4wr_10G3vTtO7yANWY7vthi1YvkFQ9mQa6RHjesBE8TVk6BI0xhIQ96m4yev2DP6jb963QhhV0KnTfr5MHnYUqXLjRapZRbLNtIjC5WUEqhO1AH4-juTMej8xMOszXgFGFn9G8lUmGZR_EODb5odX1w3tqWdDNsPG2va8YZkL1jq4npZe_vrTgoY9grJ25zN9Hqd7h6-CVEOkVKP2juYOE2OIwMF2PEMns9RAWd9Q20gie1K-ysZ-ehcWBMDBA3HejBtqlPX4RP-QqaKBPFEp4C0ekCe8lYiCgWmt36Bw9SCIW3oVOuWXUWe8WbtI3sjl0YLc05PddUabIAVbaqUz24Ybs0bWPgxYNVfn77I8hg-tYYMOGFjOIy2r8kjJ4ZEdpj7VhJ3C9W-AZYM7BVPVt55FtCcHkkT09Qy82wyuvsF9Z537ONvyTxS1FAKWx2eOyFPtnTt_-VD91pRCiJmJyDVpHbFXKQfiUA0N0dm3VbfvLSfhIjAvWJQgHKBO8sgLqgX5u6djHOQ15vylt--03ttuPHMf1cTxzi7WLv5IrFP-yntJ88WGo4QUXFAxFc7aA5m0b7ksArHVA5mn-TMF82qas6yiJ2MT2AmZKiHaQcwfJuExps3l8vVgBX5D2ZHD1yzxOVd5LnvTQQ3KtXdjkXVRLrGBme4syYatB4xlrHOhpwcVir2ckeClvobJW57ZsetlFwqytakhR1n-Afn-cMOPE5mKBX2sUOwMJREM6xqDZpejd3li8Q49FSQaoQ1wQ7zR85X87F1mLAw6SZX7LSDi90Dt6CfHrpsNgRapg3NtulPo_KnarqZBcN_huXdztsYxnb_slAzYeKjE4ncq_bA11GuHz0GF7TKMKt6A87semgBJYXxvfh763ZkWD2P-gxj7i58c-tKsHbHiB5M_MG9c8zDCQrvyCQXvzW3A9qyXZtM-cjvasM2zd8eFtLvdPg1vc2t0MrBbwmspy4w-S6IjiX5iScjXIdkiSqaOdvh-P6UcHzzxTTJZ-lLhZ8n2jZpZ8NyQMrgyVcQ7vocHMN31BGEC2pY-GrT4aftKHuFfdBpAubZSlwCsvZVUV0kW7WPUwQJs_DGy2K0arwSHtFYNL3LVsvphktGhHLdZXKKzQH2GKshipPTSSCs4R35FFBhRpg5FaSCYW8iK24ntBtluafbBjw7CH89Q4wkxQVPaPzzg6Iy2_6hILgMAmaurgOik5aMyOWlSjkhxsFerOuwWAEx3tRkVZW7JuFevYZEdiUvX6ZBYWfAL1WzZqJ18LXaGQLtQTRR2MGG7pFpKHQy4red9v9P-SvKR7CSOugkhiQFHgRU3OQkIxiPmPjiMxHFC0GunD-R8hErBoa63FuX4ZW_W0QIHwOp5oEnoYWgdt0olBmALdaJRCHPJlIkQAOV68JsyAHPM4zcOApSUdMk8KnnnIzqOoQspJBPeP6Jxff6pjcd7gfH_UJZ1UWJrMuKpHumjzfTSdIX_fuGvBDFC-uPYQgBeRgYVWlDfontT_WWlRr0yN2yDpkxgBH-UCg2MZgDfRpuRY7nVH0dVKF-YwyxGj-orb4KwHnYOLdySZVrBWFR2KhJme323P3vlMsDHdX4sCx2AfDWVxBEtS8BKh1W-fMxAqxQ825STmCBaXcyCdqAVUn7nQcz_26GaK7zru8QhnC1sSDIHUZQhQkqe_p69x7G7z8IAN5oIilpCoadIpe9J8ebSho5rQUKsLjxaBIONYNtjKmBo1pY_ZOp023pyPTFt1k02Oyw6jaDAJRnZ&opi=122715837
+            - img [ref=f6e21]
+          - link [ref=f6e23] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30GfyP3OvJdLjAU9qfBMJ2xuRi7_ATFlfDSQMPIAaACrQblGmj8_DklQUD-5BnNXXL0-0lD6qIG9EJq0YjBtemCNC4IWs_waAlkzCdTHR4sOzBWH0GfHluH9jYxyqwQqeoVzM14VGzIMRj6nmFDQNZtiRkJXva7pUriZdpOKJI-Kw-WcA7S89yWYpFbCgn_x_wbIsjKREzOhVqnQw_0UenebPBOVEZhzGVwdOvenYoigOwBLkM8vLM4uMCN4DEbeSeSlkPi9fNwBqYJOnYttIJKNOcffDcFjWcQCdbYXWtOngije3WCaxHYbI15m03cUSF9_W0ER7tvBnpHEC0wj8nbZecwFR4cEn0K5wXZtuHFu39qOLSToWBQB_CFM8hEtQtMxTyx72RPQ6ckqGyhokdEG_bcd5-Q2bWvh8vh2Ucd0xS4M_f-JNGfssVfsAp9ZM_37LpKN6vpl1QF90ddqoJPeVeoFUOLb9c53M-S24Wc-Whs6nqCECH2hsrrbDqHfzATy4V4PzALwwWVbfLhgCjP_nr_zYtr0SmQN6-YUcFIYjQOrm1H_9ONDdPYtsXOYezS09R626P7MiHkGUdc-bWMx-8M6G5k5J_hcGKdtQVsMX3IsKL9e6ZtNim0TQZYVxFANDZG0Dk30JhDac9Yz746ZYdQb-FEaIS8cec4i8SaFqsLSP_GkRN4ExBR6-4uaMqBiSdFUCWhcRqetfF0OTW9PJUwf5hM6O7jc7xyV451YktSuUR5Gv3dXwfvnN4ImGMuMkOlUfii3O02NIqN9sGK4069hwWYeAQfgr0IHOijCRHcySjUTE-YAGpRK7PcyJKq7oLVsPzQkLSJk-ZRLVg1syxH9K0gvVkQhVfgPJVquOeFaIHDrWID-NY5TVLgOSx9Wr6rcPJf-CwCBJYPp_G7_WhBg85Nk6AjLiEx_01v_b7B_neZ6Vf37nMlXOYdIgpMSjvuG7HK5Y_g2pcmkcGr8Qz4wr_10G3vTtO7yANWY7vthi1YvkFQ9mQa6RHjesBE8TVk6BI0xhIQ96m4yev2DP6jb963QhhV0KnTfr5MHnYUqXLjRapZRbLNtIjC5WUEqhO1AH4-juTMej8xMOszXgFGFn9G8lUmGZR_EODb5odX1w3tqWdDNsPG2va8YZkL1jq4npZe_vrTgoY9grJ25zN9Hqd7h6-CVEOkVKP2juYOE2OIwMF2PEMns9RAWd9Q20gie1K-ysZ-ehcWBMDBA3HejBtqlPX4RP-QqaKBPFEp4C0ekCe8lYiCgWmt36Bw9SCIW3oVOuWXUWe8WbtI3sjl0YLc05PddUabIAVbaqUz24Ybs0bWPgxYNVfn77I8hg-tYYMOGFjOIy2r8kjJ4ZEdpj7VhJ3C9W-AZYM7BVPVt55FtCcHkkT09Qy82wyuvsF9Z537ONvyTxS1FAKWx2eOyFPtnTt_-VD91pRCiJmJyDVpHbFXKQfiUA0N0dm3VbfvLSfhIjAvWJQgHKBO8sgLqgX5u6djHOQ15vylt--03ttuPHMf1cTxzi7WLv5IrFP-yntJ88WGo4QUXFAxFc7aA5m0b7ksArHVA5mn-TMF82qas6yiJ2MT2AmZKiHaQcwfJuExps3l8vVgBX5D2ZHD1yzxOVd5LnvTQQ3KtXdjkXVRLrGBme4syYatB4xlrHOhpwcVir2ckeClvobJW57ZsetlFwqytakhR1n-Afn-cMOPE5mKBX2sUOwMJREM6xqDZpejd3li8Q49FSQaoQ1wQ7zR85X87F1mLAw6SZX7LSDi90Dt6CfHrpsNgRapg3NtulPo_KnarqZBcN_huXdztsYxnb_slAzYeKjE4ncq_bA11GuHz0GF7TKMKt6A87semgBJYXxvfh763ZkWD2P-gxj7i58c-tKsHbHiB5M_MG9c8zDCQrvyCQXvzW3A9qyXZtM-cjvasM2zd8eFtLvdPg1vc2t0MrBbwmspy4w-S6IjiX5iScjXIdkiSqaOdvh-P6UcHzzxTTJZ-lLhZ8n2jZpZ8NyQMrgyVcQ7vocHMN31BGEC2pY-GrT4aftKHuFfdBpAubZSlwCsvZVUV0kW7WPUwQJs_DGy2K0arwSHtFYNL3LVsvphktGhHLdZXKKzQH2GKshipPTSSCs4R35FFBhRpg5FaSCYW8iK24ntBtluafbBjw7CH89Q4wkxQVPaPzzg6Iy2_6hILgMAmaurgOik5aMyOWlSjkhxsFerOuwWAEx3tRkVZW7JuFevYZEdiUvX6ZBYWfAL1WzZqJ18LXaGQLtQTRR2MGG7pFpKHQy4red9v9P-SvKR7CSOugkhiQFHgRU3OQkIxiPmPjiMxHFC0GunD-R8hErBoa63FuX4ZW_W0QIHwOp5oEnoYWgdt0olBmALdaJRCHPJlIkQAOV68JsyAHPM4zcOApSUdMk8KnnnIzqOoQspJBPeP6Jxff6pjcd7gfH_UJZ1UWJrMuKpHumjzfTSdIX_fuGvBDFC-uPYQgBeRgYVWlDfontT_WWlRr0yN2yDpkxgBH-UCg2MZgDfRpuRY7nVH0dVKF-YwyxGj-orb4KwHnYOLdySZVrBWFR2KhJme323P3vlMsDHdX4sCx2AfDWVxBEtS8BKh1W-fMxAqxQ825STmCBaXcyCdqAVUn7nQcz_26GaK7zru8QhnC1sSDIHUZQhQkqe_p69x7G7z8IAN5oIilpCoadIpe9J8ebSho5rQUKsLjxaBIONYNtjKmBo1pY_ZOp023pyPTFt1k02Oyw6jaDAJRnZ&opi=122715837
+            - img [ref=f6e25]
+        - img [ref=f6e28] [cursor=pointer]
+        - generic [ref=f6e39]:
+          - img [ref=f6e42]
+          - generic [ref=f6e45]:
+            - text: Ads by
+            - img [ref=f6e46]
+          - generic [ref=f6e49]:
+            - generic [ref=f6e52] [cursor=pointer]: Ad options
+            - generic [ref=f6e55] [cursor=pointer]: Send feedback
+            - link [ref=f6e57] [cursor=pointer]:
+              - /url: https://adssettings.google.com/whythisad?source=display&reasons=AWUvr30GfyP3OvJdLjAU9qfBMJ2xuRi7_ATFlfDSQMPIAaACrQblGmj8_DklQUD-5BnNXXL0-0lD6qIG9EJq0YjBtemCNC4IWs_waAlkzCdTHR4sOzBWH0GfHluH9jYxyqwQqeoVzM14VGzIMRj6nmFDQNZtiRkJXva7pUriZdpOKJI-Kw-WcA7S89yWYpFbCgn_x_wbIsjKREzOhVqnQw_0UenebPBOVEZhzGVwdOvenYoigOwBLkM8vLM4uMCN4DEbeSeSlkPi9fNwBqYJOnYttIJKNOcffDcFjWcQCdbYXWtOngije3WCaxHYbI15m03cUSF9_W0ER7tvBnpHEC0wj8nbZecwFR4cEn0K5wXZtuHFu39qOLSToWBQB_CFM8hEtQtMxTyx72RPQ6ckqGyhokdEG_bcd5-Q2bWvh8vh2Ucd0xS4M_f-JNGfssVfsAp9ZM_37LpKN6vpl1QF90ddqoJPeVeoFUOLb9c53M-S24Wc-Whs6nqCECH2hsrrbDqHfzATy4V4PzALwwWVbfLhgCjP_nr_zYtr0SmQN6-YUcFIYjQOrm1H_9ONDdPYtsXOYezS09R626P7MiHkGUdc-bWMx-8M6G5k5J_hcGKdtQVsMX3IsKL9e6ZtNim0TQZYVxFANDZG0Dk30JhDac9Yz746ZYdQb-FEaIS8cec4i8SaFqsLSP_GkRN4ExBR6-4uaMqBiSdFUCWhcRqetfF0OTW9PJUwf5hM6O7jc7xyV451YktSuUR5Gv3dXwfvnN4ImGMuMkOlUfii3O02NIqN9sGK4069hwWYeAQfgr0IHOijCRHcySjUTE-YAGpRK7PcyJKq7oLVsPzQkLSJk-ZRLVg1syxH9K0gvVkQhVfgPJVquOeFaIHDrWID-NY5TVLgOSx9Wr6rcPJf-CwCBJYPp_G7_WhBg85Nk6AjLiEx_01v_b7B_neZ6Vf37nMlXOYdIgpMSjvuG7HK5Y_g2pcmkcGr8Qz4wr_10G3vTtO7yANWY7vthi1YvkFQ9mQa6RHjesBE8TVk6BI0xhIQ96m4yev2DP6jb963QhhV0KnTfr5MHnYUqXLjRapZRbLNtIjC5WUEqhO1AH4-juTMej8xMOszXgFGFn9G8lUmGZR_EODb5odX1w3tqWdDNsPG2va8YZkL1jq4npZe_vrTgoY9grJ25zN9Hqd7h6-CVEOkVKP2juYOE2OIwMF2PEMns9RAWd9Q20gie1K-ysZ-ehcWBMDBA3HejBtqlPX4RP-QqaKBPFEp4C0ekCe8lYiCgWmt36Bw9SCIW3oVOuWXUWe8WbtI3sjl0YLc05PddUabIAVbaqUz24Ybs0bWPgxYNVfn77I8hg-tYYMOGFjOIy2r8kjJ4ZEdpj7VhJ3C9W-AZYM7BVPVt55FtCcHkkT09Qy82wyuvsF9Z537ONvyTxS1FAKWx2eOyFPtnTt_-VD91pRCiJmJyDVpHbFXKQfiUA0N0dm3VbfvLSfhIjAvWJQgHKBO8sgLqgX5u6djHOQ15vylt--03ttuPHMf1cTxzi7WLv5IrFP-yntJ88WGo4QUXFAxFc7aA5m0b7ksArHVA5mn-TMF82qas6yiJ2MT2AmZKiHaQcwfJuExps3l8vVgBX5D2ZHD1yzxOVd5LnvTQQ3KtXdjkXVRLrGBme4syYatB4xlrHOhpwcVir2ckeClvobJW57ZsetlFwqytakhR1n-Afn-cMOPE5mKBX2sUOwMJREM6xqDZpejd3li8Q49FSQaoQ1wQ7zR85X87F1mLAw6SZX7LSDi90Dt6CfHrpsNgRapg3NtulPo_KnarqZBcN_huXdztsYxnb_slAzYeKjE4ncq_bA11GuHz0GF7TKMKt6A87semgBJYXxvfh763ZkWD2P-gxj7i58c-tKsHbHiB5M_MG9c8zDCQrvyCQXvzW3A9qyXZtM-cjvasM2zd8eFtLvdPg1vc2t0MrBbwmspy4w-S6IjiX5iScjXIdkiSqaOdvh-P6UcHzzxTTJZ-lLhZ8n2jZpZ8NyQMrgyVcQ7vocHMN31BGEC2pY-GrT4aftKHuFfdBpAubZSlwCsvZVUV0kW7WPUwQJs_DGy2K0arwSHtFYNL3LVsvphktGhHLdZXKKzQH2GKshipPTSSCs4R35FFBhRpg5FaSCYW8iK24ntBtluafbBjw7CH89Q4wkxQVPaPzzg6Iy2_6hILgMAmaurgOik5aMyOWlSjkhxsFerOuwWAEx3tRkVZW7JuFevYZEdiUvX6ZBYWfAL1WzZqJ18LXaGQLtQTRR2MGG7pFpKHQy4red9v9P-SvKR7CSOugkhiQFHgRU3OQkIxiPmPjiMxHFC0GunD-R8hErBoa63FuX4ZW_W0QIHwOp5oEnoYWgdt0olBmALdaJRCHPJlIkQAOV68JsyAHPM4zcOApSUdMk8KnnnIzqOoQspJBPeP6Jxff6pjcd7gfH_UJZ1UWJrMuKpHumjzfTSdIX_fuGvBDFC-uPYQgBeRgYVWlDfontT_WWlRr0yN2yDpkxgBH-UCg2MZgDfRpuRY7nVH0dVKF-YwyxGj-orb4KwHnYOLdySZVrBWFR2KhJme323P3vlMsDHdX4sCx2AfDWVxBEtS8BKh1W-fMxAqxQ825STmCBaXcyCdqAVUn7nQcz_26GaK7zru8QhnC1sSDIHUZQhQkqe_p69x7G7z8IAN5oIilpCoadIpe9J8ebSho5rQUKsLjxaBIONYNtjKmBo1pY_ZOp023pyPTFt1k02Oyw6jaDAJRnZ&opi=122715837
+              - generic [ref=f6e58]:
+                - text: Why this ad?
+                - img [ref=f6e59]
+        - generic [ref=f6e61]:
+          - generic [ref=f6e64] [cursor=pointer]: Ad was inappropriate
+          - generic [ref=f6e67] [cursor=pointer]: Not interested in this ad
+          - generic [ref=f6e70] [cursor=pointer]: Seen this ad multiple times
+          - generic [ref=f6e73] [cursor=pointer]: Ad covered content
+        - generic [ref=f6e79]: Thanks. Feedback improves Google ads
+        - generic [ref=f6e85]:
+          - text: Ad closed by
+          - img [ref=f6e86]
+        - generic [ref=f6e93]:
+          - img [ref=f6e96]
+          - generic [ref=f6e98]:
+            - generic [ref=f6e100]: Personalize ads on this site
+            - link [ref=f6e104] [cursor=pointer]:
+              - /url: https://support.google.com/ads/answer/10923348
+              - generic [ref=f6e105]:
+                - text: Learn more
+                - img [ref=f6e106]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - text: Elements
+            - img [ref=e30]
+          - list [ref=e35]:
+            - listitem [ref=e36] [cursor=pointer]:
+              - img [ref=e37]
+              - generic [ref=e39]: Text Box
+            - listitem [ref=e40] [cursor=pointer]:
+              - img [ref=e41]
+              - generic [ref=e43]: Check Box
+            - listitem [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e47]: Radio Button
+            - listitem [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+              - generic [ref=e51]: Web Tables
+            - listitem [ref=e52] [cursor=pointer]:
+              - img [ref=e53]
+              - generic [ref=e55]: Buttons
+            - listitem [ref=e56] [cursor=pointer]:
+              - img [ref=e57]
+              - generic [ref=e59]: Links
+            - listitem [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+              - generic [ref=e63]: Broken Links - Images
+            - listitem [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]: Upload and Download
+            - listitem [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+              - generic [ref=e71]: Dynamic Properties
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - text: Forms
+          - img [ref=e83]
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - text: Alerts, Frame & Windows
+          - img [ref=e97]
+        - generic [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]:
+            - img [ref=e106]
+            - text: Widgets
+          - img [ref=e111]
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - text: Interactions
+          - img [ref=e125]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - text: Book Store Application
+          - img [ref=e139]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          - generic [ref=f25e2]:
+            - iframe [ref=f25e5]:
+              - generic [ref=f29e2] [cursor=pointer]:
+                - generic [ref=f29e5]:
+                  - generic [ref=f29e7]:
+                    - generic [ref=f29e8]: QUARTERFINALS
+                    - generic [ref=f29e9]: RYBAKINA
+                    - img [ref=f29e11]
+                    - generic [ref=f29e13]: SWIATEK
+                  - generic [ref=f29e14]:
+                    - generic [ref=f29e15]:
+                      - img [ref=f29e16]
+                      - img [ref=f29e18]
+                      - img [ref=f29e20]
+                      - img [ref=f29e22]
+                    - generic [ref=f29e25]: TICKETS SELLING FAST
+                  - generic [ref=f29e26]: "*Limited Availability. Prices may fluctuate. Lowest single seat price."
+                  - generic [ref=f29e28]: Wednesday Day | Rod Laver Arena
+                  - img [ref=f29e30]
+                - generic [ref=f29e33]:
+                  - img [ref=f29e35]
+                  - img "Hits Different" [ref=f29e39]
+                - img [ref=f29e41]
+                - generic [ref=f29e42]:
+                  - img [ref=f29e43]
+                  - img [ref=f29e44]
+                - img [ref=f29e46]
+            - generic [ref=f25e6]:
+              - generic:
+                - img [ref=f25e10] [cursor=pointer]
+                - button [ref=f25e12] [cursor=pointer]:
+                  - img [ref=f25e13]
+        - heading "Check Box" [level=1] [ref=e147]
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - generic [ref=e150]:
+              - button "Expand all" [ref=e151] [cursor=pointer]:
+                - img [ref=e152]: 
+              - button "Collapse all" [ref=e154] [cursor=pointer]:
+                - img [ref=e155]: 
+            - list [ref=e157]:
+              - listitem [ref=e158]:
+                - generic [ref=e159]:
+                  - button "Toggle" [ref=e160] [cursor=pointer]:
+                    - img [ref=e161]: 
+                  - generic [ref=e163] [cursor=pointer]:
+                    - img [ref=e165]: 
+                    - img [ref=e168]: 
+                    - text: Home
+          - generic [ref=e170]:
+            - generic [ref=e171]: "You have selected :"
+            - generic [ref=e172]: home
+            - generic [ref=e173]: desktop
+            - generic [ref=e174]: notes
+            - generic [ref=e175]: commands
+            - generic [ref=e176]: documents
+            - generic [ref=e177]: workspace
+            - generic [ref=e178]: react
+            - generic [ref=e179]: angular
+            - generic [ref=e180]: veu
+            - generic [ref=e181]: office
+            - generic [ref=e182]: public
+            - generic [ref=e183]: private
+            - generic [ref=e184]: classified
+            - generic [ref=e185]: general
+            - generic [ref=e186]: downloads
+            - generic [ref=e187]: wordFile
+            - generic [ref=e188]: excelFile
+        - iframe [ref=e192]:
+          - generic [ref=f31e2]:
+            - iframe [ref=f31e5]:
+              - generic [ref=f34e2] [cursor=pointer]:
+                - generic [ref=f34e5]:
+                  - generic [ref=f34e7]:
+                    - generic [ref=f34e8]: QUARTERFINALS
+                    - generic [ref=f34e9]: RYBAKINA
+                    - img [ref=f34e11]
+                    - generic [ref=f34e13]: SWIATEK
+                  - generic [ref=f34e14]:
+                    - generic [ref=f34e15]:
+                      - img [ref=f34e16]
+                      - img [ref=f34e18]
+                      - img [ref=f34e20]
+                      - img [ref=f34e22]
+                    - generic [ref=f34e25]: TICKETS SELLING FAST
+                  - generic [ref=f34e26]: "*Limited Availability. Prices may fluctuate. Lowest single seat price."
+                  - generic [ref=f34e28]: Wednesday Day | Rod Laver Arena
+                  - img [ref=f34e30]
+                - generic [ref=f34e33]:
+                  - img [ref=f34e35]
+                  - img "Hits Different" [ref=f34e39]
+                - img [ref=f34e41]
+                - generic [ref=f34e42]:
+                  - img [ref=f34e43]
+                  - img [ref=f34e44]
+                - img [ref=f34e46]
+            - generic [ref=f31e6]:
+              - generic:
+                - img [ref=f31e10] [cursor=pointer]
+                - button [ref=f31e12] [cursor=pointer]:
+                  - img [ref=f31e13]
+      - generic [ref=e197]:
+        - img "Build PlayWright tests with AI" [ref=e199] [cursor=pointer]
+        - iframe [ref=e202]:
+          - generic [ref=f38e2]:
+            - iframe [ref=f38e5]:
+              - generic [ref=f41e2] [cursor=pointer]:
+                - generic [ref=f41e5]:
+                  - generic [ref=f41e7]:
+                    - generic [ref=f41e8]: QUARTERFINALS
+                    - generic [ref=f41e9]: SHELTON
+                    - img [ref=f41e11]
+                    - generic [ref=f41e13]: SINNER
+                  - generic [ref=f41e14]:
+                    - generic [ref=f41e15]:
+                      - img [ref=f41e16]
+                      - img [ref=f41e18]
+                      - img [ref=f41e20]
+                      - img [ref=f41e22]
+                    - generic [ref=f41e24]:
+                      - generic [ref=f41e25]: TICKETS SELLING FAST
+                      - generic [ref=f41e26]: "*Limited Availability. Prices may fluctuate. Lowest single seat price."
+                    - generic [ref=f41e28]: Wednesday Night | Rod Laver Arena
+                  - img [ref=f41e30]
+                - generic [ref=f41e33]:
+                  - img [ref=f41e35]
+                  - img "Hits Different" [ref=f41e39]
+                - img [ref=f41e41]
+                - generic [ref=f41e42]:
+                  - img [ref=f41e43]
+                  - img [ref=f41e44]
+                - img [ref=f41e46]
+            - generic [ref=f38e6]:
+              - generic:
+                - img [ref=f38e10] [cursor=pointer]
+                - button [ref=f38e12] [cursor=pointer]:
+                  - img [ref=f38e13]
+        - iframe [ref=e205]:
+          - generic [ref=f44e2]:
+            - iframe [ref=f44e5]:
+              - generic [ref=f47e2] [cursor=pointer]:
+                - generic [ref=f47e5]:
+                  - generic [ref=f47e7]:
+                    - generic [ref=f47e8]: QUARTERFINALS
+                    - generic [ref=f47e9]: MUSETTI
+                    - img [ref=f47e11]
+                    - generic [ref=f47e13]: DJOKOVIC
+                  - generic [ref=f47e14]:
+                    - generic [ref=f47e15]:
+                      - img [ref=f47e16]
+                      - img [ref=f47e18]
+                      - img [ref=f47e20]
+                      - img [ref=f47e22]
+                    - generic [ref=f47e24]:
+                      - generic [ref=f47e25]: TICKETS SELLING FAST
+                      - generic [ref=f47e26]: "*Limited Availability. Prices may fluctuate. Lowest single seat price."
+                    - generic [ref=f47e28]: Wednesday Day | Rod Laver Arena
+                  - img [ref=f47e30]
+                - generic [ref=f47e33]:
+                  - img [ref=f47e35]
+                  - img "Hits Different" [ref=f47e39]
+                - img [ref=f47e41]
+                - generic [ref=f47e42]:
+                  - img [ref=f47e43]
+                  - img [ref=f47e44]
+                - img [ref=f47e46]
+            - generic [ref=f44e6]:
+              - generic:
+                - img [ref=f44e10] [cursor=pointer]
+                - button [ref=f44e12] [cursor=pointer]:
+                  - img [ref=f44e13]
+    - contentinfo [ref=e206]:
+      - generic [ref=e207]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```
